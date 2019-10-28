@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>nikhila</title>
+	</head>
+	<body>
+		<h1>this is my first webpage</h1>
+		<h2>nikhila</h2>
+		<h3>ICT ACADEMY</H3>
+		
+		<h4>ul cyberpark</H4>
+		<h5>cyberpark</h5>
+		<h6>nellikunn</h6>
+		<strong>content</strong>
+		<strong>strong</strong>
+		<span>span tag</span>
+		<em>italic</em>
+		<i>i</i>
+		<a href="www.instagram.com" target="_blank">clickhere</a>
+		<p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+	</body>
+</html>
